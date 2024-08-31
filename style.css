@@ -1,0 +1,41 @@
+
+
+.custom{
+    background-color: bisque;
+    .custom-m{
+        margin: 10px;
+        height:350px;
+        width:200px;
+}
+      }
+      @media screen and (max-width: 767px) {
+        width: 32%:
+  
+        @media screen and (max-width: 536px) {
+          width: 32%:
+  
+          .custom-btn{
+            padding: 2px;
+            
+          }
+          .footer{
+            height: 200px;
+            background-color: black;
+            color: white;
+            margin-top: 20px;
+        }
+        
+        .footer-item{
+            width: 33%;
+            float: left;
+            margin-top: 10px;
+        }
+        
+        .link{
+            text-decoration: none;
+            color: rgb(199, 199, 103);
+            display: block;
+            margin-top: 5px;
+        }
+      }
+}
