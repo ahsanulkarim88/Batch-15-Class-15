@@ -17,19 +17,8 @@
           .custom-btn{
             padding: 2px;
             
-          }
-          .footer{
-            height: 200px;
-            background-color: black;
-            color: white;
-            margin-top: 20px;
-        }
-        
-        .footer-item{
-            width: 33%;
-            float: left;
-            margin-top: 10px;
-        }
+          
+          
         
         .link{
             text-decoration: none;
@@ -37,5 +26,30 @@
             display: block;
             margin-top: 5px;
         }
+
+        .footer{
+          height: 250px;
+          background-color: rgb(14, 13, 13);
+          color: white;
+          margin-top: 5px;
+      }
+      
+      .footer-item{
+          width: 33%;
+          float: left;
+          margin-top: 15px;
+          
+          
+      }
+      
+      .link{
+          text-decoration: none;
+          color: beige;
+          display: block;
+          margin-top: 3px;
+      }
+
+      
+      
       }
 }
