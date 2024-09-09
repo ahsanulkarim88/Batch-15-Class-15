@@ -8,15 +8,13 @@
         width:200px;
 }
       }
-      @media screen and (max-width: 767px) {
-        width: 32%:
-  
-        @media screen and (max-width: 536px) {
-          width: 32%:
+        
+        @media screen and (max-width: 536px){}
+          
   
           .custom-btn{
             padding: 2px;
-            
+          }
           
           
         
@@ -51,5 +49,4 @@
 
       
       
-      }
-}
+      
